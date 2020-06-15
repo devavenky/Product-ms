@@ -22,6 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>devavenky_Product-ms</sonar.projectKey>
+  <sonar.organization>devavenky</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>c4e88aec8c54882cdf4e472cabf73b8110160cf9</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>

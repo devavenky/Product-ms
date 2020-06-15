@@ -1,0 +1,7 @@
+organization=devavenky
+projectKey=devavenky_Product-ms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=devavenky_Product-ms
+ceTaskId=AXKo_xgqlLaLEx4twmVs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKo_xgqlLaLEx4twmVs

@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Product-Kar
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Lvs
+Built-By: venkyjaydeva
 Implementation-Vendor-Id: com.management
-Build-Jdk: 1.8.0_251
+Build-Jdk: 1.8.0_241
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/Product-Kar
 Created-By: Maven Integration for Eclipse

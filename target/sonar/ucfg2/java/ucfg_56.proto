@@ -1,0 +1,32 @@
+
+Vcom.management.ProductMS.validation.Validator#validateProductName(Ljava/lang/String;)ZY
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (*"3*Ã
+2Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java
+ ("c
+Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (
+""*—
+3Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (@´
+±
+Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (A
+regjava.lang.String"__id*53
+1^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*).{0,100}$÷ô
+Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (
+%0boolean"-java.lang.String#matches(Ljava/lang/String;)Z*!
+
+productnamejava.lang.String*
+
+regjava.lang.String2matches(Ljava/lang/String;)*
+2
+1*Ã
+1Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java	 ("c
+Y
+OV:/Product-Kar/src/main/java/com/management/ProductMS/validation/Validator.java (
+"":
+productnamejava.lang.StringB1"/
+-com.management.ProductMS.validation.Validator
